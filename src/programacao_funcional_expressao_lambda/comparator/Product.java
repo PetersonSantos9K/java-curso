@@ -1,4 +1,4 @@
-package programacao_funcional_expressao_lambda.comparator.Ex01;
+package programacao_funcional_expressao_lambda.comparator;
 
 public class Product{
 
